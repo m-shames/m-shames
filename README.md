@@ -6,11 +6,11 @@
 
 I'm an independent data & research consultant with over a decade of applied experience in inequality, criminal-legal, and policy research. I specialize in reform monitoring and evaluation using quantitative, qualitative, and computational methods. 
 
-I'm currently a PhD Candidate in Sociology & MS Candidate in Applied Statistics at Northwestern University (anticipated defense: May 2026), and a research fellow at the Center for Neighborhood Engaged Research and Science.   
+I'm currently a PhD Candidate in Sociology & MS Candidate in Applied Statistics at Northwestern University (anticipated defense: May 2026), and a Research Fellow at [the Center for Neighborhood Engaged Research and Science](https://www.cornersresearch.org/).   
 
 ## Technical Skills
 - **Languages & Tools:** R, Python, SQL, STATA, NVivo, QGis, Git/GitHub
-- **Statistical Methods:** Parametric & Nonparametric GLMs; Causal Inference (RDD/RDiT, ITS, DiD) ; Predictive Modeling
+- **Statistical Methods:** Parametric & Nonparametric Regression; Causal Inference (RDD/RDiT, ITS, DiD) ; Predictive Modeling: Network Science
 - **Communication:** Proven track record of communicating technical findings to diverse audiences including experts, stakeholders, and the public.
 
 <!--
