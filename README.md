@@ -22,8 +22,9 @@ ADD
 My dissertation research examines the implementation and efficacy of Chicago police reforms related to officer misconduct, independent oversight, and community-oriented policing. I've also conducted research on police practices and reforms in other cities, on courts and pretrial detention, on prison education and solitary confinement, and on community violence intervention. 
 
 Examples of my work are available in my [portfolio](https://github.com/m-shames/portfolio).
-<!--
+
+
 ## Connect
-- Email: [your email]
-- LinkedIn: [link if you want]
--->
+- Email: michelle.c.shames@gmail.com
+- LinkedIn: https://www.linkedin.com/in/michelleshames/
+
