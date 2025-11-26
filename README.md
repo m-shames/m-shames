@@ -10,7 +10,7 @@ I'm currently a PhD Candidate in Sociology & MS Candidate in Applied Statistics 
 
 ## Technical Skills
 - **Languages & Tools:** R, Python, SQL, STATA, NVivo, QGis, Git/GitHub
-- **Statistical Methods:** Parametric & Nonparametric Regression; Causal Inference (RDD/RDiT, ITS, DiD) ; Predictive Modeling: Network Science
+- **Statistical Methods:** Parametric & Nonparametric Regression; Causal Inference (RDD/RDiT, DiD, ITS); Predictive Modeling; Network Science  
 - **Communication:** Proven track record of communicating technical findings to diverse audiences including experts, stakeholders, and the public.
 
 <!--
