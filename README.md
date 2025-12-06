@@ -4,25 +4,23 @@
 **m-shames/m-shames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I'm an independent data & research consultant with over a decade of applied experience in inequality, criminal-legal, and policy research. I specialize in reform monitoring and evaluation using quantitative, qualitative, and computational methods. 
+I'm an independent data & research consultant with over a decade of applied experience specializing in the criminal legal system and reform evaluation. My methodological experties includes quantitative, qualitative, and computational methods. 
 
-I'm currently a PhD Candidate in Sociology & MS Candidate in Applied Statistics at Northwestern University (anticipated defense: May 2026), and a Research Fellow at [the Center for Neighborhood Engaged Research and Science](https://www.cornersresearch.org/).   
+I'm also currently a PhD Candidate in Sociology & MS Candidate in Applied Statistics at Northwestern University (anticipated defense: May 2026), and a Research Fellow at [the Center for Neighborhood Engaged Research and Science](https://www.cornersresearch.org/).   
 
+<!--
 ## Technical Skills
 - **Languages & Tools:** R, Python, SQL, STATA, NVivo, QGis, Git/GitHub
 - **Statistical Methods:** Parametric & Nonparametric Regression; Causal Inference (RDD/RDiT, DiD, ITS); Predictive Modeling; Network Science  
 - **Communication:** Proven track record of communicating technical findings to diverse audiences including experts, stakeholders, and the public.
-
-<!--
 ADD
 - **Data Visualization:** [add tools like ggplot2, Tableau, etc.]
 -->
+## Experience & Skills
+For more information about my training, experience, publications, and leadership, see [my Curriculum Vitae](https://github.com/m-shames/portfolio). 
 
-## Research & Projects
-My dissertation research examines the implementation and efficacy of Chicago police reforms related to officer misconduct, independent oversight, and community-oriented policing. I've also conducted research on police practices and reforms in other cities, on courts and pretrial detention, on prison education and solitary confinement, and on community violence intervention. 
-
-Examples of my work are available in my [portfolio](https://github.com/m-shames/portfolio).
-
+## Projects
+Examples of my work and excerpts from past and ongoing research projects can be found [here](https://github.com/m-shames/portfolio/tree/main/projects). 
 
 ## Connect
 - Email: michelle.c.shames@gmail.com
