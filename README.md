@@ -4,7 +4,7 @@
 **m-shames/m-shames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I'm an independent data & research consultant with over a decade of applied experience specializing in the criminal legal system and reform evaluation. My methodological experties includes quantitative, qualitative, and computational methods. 
+I'm an independent data and research consultant with over a decade of applied experience. I specialize in the criminal legal system and reform evaluation, with methodological expertise in quantitative, qualitative, and computational methods. 
 
 I'm also currently a PhD Candidate in Sociology & MS Candidate in Applied Statistics at Northwestern University (anticipated defense: May 2026), and a Research Fellow at [the Center for Neighborhood Engaged Research and Science](https://www.cornersresearch.org/).   
 
