@@ -17,7 +17,7 @@ ADD
 - **Data Visualization:** [add tools like ggplot2, Tableau, etc.]
 -->
 ## Experience & Skills
-For more information, see [my Curriculum Vitae](https://github.com/m-shames/portfolio). 
+For more information, see [my portfolio](https://github.com/m-shames/portfolio). 
 
 ## Projects
 Examples of my work and excerpts from past and ongoing research projects can be found [here](https://github.com/m-shames/portfolio/tree/main/projects). 
