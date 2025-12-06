@@ -6,7 +6,7 @@
 
 I'm an independent data and research consultant with over a decade of applied experience. I specialize in the criminal legal system and reform evaluation, with methodological expertise in quantitative, qualitative, and computational methods. 
 
-I'm also currently a PhD Candidate in Sociology & MS Candidate in Applied Statistics at Northwestern University (anticipated defense: May 2026), and a Research Fellow at [the Center for Neighborhood Engaged Research and Science](https://www.cornersresearch.org/).   
+I'm also a PhD Candidate in Sociology & MS Candidate in Applied Statistics at Northwestern University (anticipated defense: May 2026), and a Research Fellow at [the Center for Neighborhood Engaged Research and Science](https://www.cornersresearch.org/).   
 
 <!--
 ## Technical Skills
@@ -17,7 +17,7 @@ ADD
 - **Data Visualization:** [add tools like ggplot2, Tableau, etc.]
 -->
 ## Experience & Skills
-For more information about my training, experience, publications, and leadership, see [my Curriculum Vitae](https://github.com/m-shames/portfolio). 
+For more information, see [my Curriculum Vitae](https://github.com/m-shames/portfolio). 
 
 ## Projects
 Examples of my work and excerpts from past and ongoing research projects can be found [here](https://github.com/m-shames/portfolio/tree/main/projects). 
