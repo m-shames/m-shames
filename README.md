@@ -1,26 +1,17 @@
 ## Hi, I'm Michelle 👋
 
-<!--
-**m-shames/m-shames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+Data scientist and independent research consultant specializing in criminal
+legal reform evaluation. My work has supported civil rights litigation, informed 
+state-level Senate testimony, and shaped policy recommendations adopted by 
+law enforcement and corrections agencies.
 
-I'm an independent data and research consultant with over a decade of applied experience. I specialize in the criminal legal system and reform evaluation, with methodological expertise in quantitative, qualitative, and computational methods. 
-
-I'm also a PhD Candidate in Sociology & MS Candidate in Applied Statistics at Northwestern University (anticipated defense: May 2026), and a Research Fellow at [the Center for Neighborhood Engaged Research and Science](https://github.com/cornersresearch).   
-
-<!--
-## Technical Skills
-- **Languages & Tools:** R, Python, SQL, STATA, NVivo, QGis, Git/GitHub
-- **Statistical Methods:** Parametric & Nonparametric Regression; Causal Inference (RDD/RDiT, DiD, ITS); Predictive Modeling; Network Science  
-- **Communication:** Proven track record of communicating technical findings to diverse audiences including experts, stakeholders, and the public.
-ADD
-- **Data Visualization:** [add tools like ggplot2, Tableau, etc.]
--->
-## Experience & Skills
+Currently an MS in Applied Statistics & PhD candidate 
+in Sociology @NorthwesternUniversity (anticipated defense May 2026),
+and research fellow @[the Center for Neighborhood Engaged Research and Science](https://www.cornersresearch.org/). Former Lead Data & Research Strategist @[NYCLU](https://github.com/new-york-civil-liberties-union) (ACLU of New York).
 For more information, see [my portfolio](https://github.com/m-shames/portfolio). 
 
-## Projects
-Examples of my work and excerpts from past and ongoing research projects can be found [here](https://github.com/m-shames/portfolio/tree/main/projects). 
+## Methodological Expertise
+Causal inference (ITS, DiD, RDD) · Supervised ML · GLMs & non-parametric regression 
 
 ## Connect
 - Email: michelle.c.shames@gmail.com
