@@ -1,7 +1,7 @@
 ## Hi, I'm Michelle 👋
 
 Data scientist and independent research consultant specializing in criminal
-legal reform evaluation. My work has supported civil rights litigation, informed 
+legal policy and reform evaluation. My work has supported civil rights litigation, informed 
 state-level Senate testimony, and shaped policy recommendations adopted by 
 law enforcement and corrections agencies.
 
